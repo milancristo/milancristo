@@ -10,6 +10,10 @@
 
 ---
 
+![Spotify](https://novatorem.vercel.app/api/spotify?background_color=000000&border_color=ffffff)
+
+---
+
 ## 🛠 Tech Stack & Skills
 
 ### 💻 **Programming Languages**
