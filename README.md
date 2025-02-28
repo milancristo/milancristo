@@ -1,6 +1,5 @@
 # Hi there, I'm Cristo! 👋
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 ## 🚀 Tech Enthusiast & Problem Solver
 
 - 🔭 I’m currently working on **Wine Inventory Management App**
