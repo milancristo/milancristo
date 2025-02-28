@@ -1,3 +1,5 @@
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 # Hi there, I'm Cristo! 👋
 
 ## 🚀 Tech Enthusiast & Problem Solver
@@ -39,6 +41,9 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=milancristo&layout=compact&theme=tokyonight)
 
 ---
+
+### ✨ Thanks for stopping by! Feel free to explore my repositories. 
+🙌 If you have any questions, don’t hesitate to reach out!
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/milan-cristo-koutrogiannios/)  
