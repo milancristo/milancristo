@@ -34,8 +34,8 @@
 
 ## 🔥 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=milancristo&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milancristo&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=milancristo&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=milancristo&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
